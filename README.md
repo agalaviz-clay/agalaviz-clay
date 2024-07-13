@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-This is my [GitHub "Profile README"](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). It is the landing page when anyone navigates to my GitHub link.
+This is my nifty [GitHub "Profile README"](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). It is the landing page of my GitHub URL link.
 
 ### 💬 About Me
 I love to travel and spend time with my family, and in my free time, you can often find me playing board games with them or enjoying the outdoors at one of the beautiful 10,000+ lakes in Minnesota. 
