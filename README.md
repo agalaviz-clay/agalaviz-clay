@@ -16,9 +16,9 @@ Similarly, I have technical background as a Information Technology Support where
 I am currently open for full-time opportunities and am excited to connect with like-minded professionals to explore potential collaboration, transferring not just my technical skills but also a spirit of dedication and curiosity!
 
 ## 📫 Contact Info
-*Let's connect!*
+*Let's connect! Feel free to add me on LinkedIn.*
 
-<a href="https://www.linkedin.com/in/andres-galaviz-clay" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/andres-galaviz-clay"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 ## ⚙️ Technologies
