@@ -1,8 +1,9 @@
 <div align="center">
   
 # Welcome! 👋 I'm Andres
+### I am a Software Engineer
 
-This is my nifty [GitHub "Profile README" landing page](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
+This is my nifty [GitHub "Profile README"](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme) landing page.
 
 ## 💬 About Me
 I love to travel and spend time with my family, and in my free time, you can often find me playing board games with them or enjoying the outdoors at one of the beautiful 10,000+ lakes in Minnesota. 
@@ -16,10 +17,9 @@ Similarly, I have technical background as a Information Technology Support where
 I am currently open for full-time opportunities and am excited to connect with like-minded professionals to explore potential collaboration, transferring not just my technical skills but also a spirit of dedication and curiosity!
 
 ## 📫 Contact Info
-*Let's connect! Feel free to add me on LinkedIn.*
+*Let's connect! Feel free to add me.*
 
-<a href="https://www.linkedin.com/in/andres-galaviz-clay"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<a href="https://www.linkedin.com/in/andres-galaviz-clay"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 
 ## ⚙️ Technologies
 *A highlight of some major tools and platforms that I have experience with.*
@@ -38,3 +38,5 @@ Gradle, Node.js, PostgreSQL, Spring Boot
 
 #### DevOps
 Ansible, AWS, Docker, Bash Scripting
+
+</div>
