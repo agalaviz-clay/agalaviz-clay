@@ -12,7 +12,7 @@ I am a freelance Software Engineer training AI chatbots on various coding standa
 
 Additional experiences include a Backend Engineer where I was contracted to implement a RESTful API in Java using Spring Boot and Postgres to enhance data accessibility to our production inventory accuracy data. This opportunity showcased my microservice and software development skills by streamlining the process for stakeholders to manually intervene in falsely rejected inventory data.
 
-Similarly, I have technical background as a Information Technology Support where I troubleshoot and solve hardware and software issues for individuals of various age and technical aptitude! It was an accomplishing opportunity that leveraged my strong verbal and written communication skills.
+Similarly, I have technical background as a Information Technology Support where I troubleshoot and solve hardware and software issues for individuals of various age and technical aptitude! It was an accomplishing opportunity that leveraged my strong verbal and written communication as well as troubleshooting skills.
 
 I am currently open for full-time opportunities and am excited to connect with like-minded professionals to explore potential collaboration, transferring not just my technical skills but also a spirit of dedication and curiosity!
 
@@ -25,7 +25,7 @@ I am currently open for full-time opportunities and am excited to connect with l
 *A highlight of some major tools and platforms that I have experience with.*
 
 #### Base
-IntelliJ, Linux, Mac OS, VS Code
+IntelliJ, Linux, MacOS, Windows, VS Code
 
 #### Languages
 C++, Java, JavaScript, Python
@@ -37,6 +37,9 @@ CSS, HTML
 Gradle, Node.js, PostgreSQL, Spring Boot
 
 #### DevOps
-Ansible, AWS, Docker, Bash Scripting
+Ansible, AWS, Bash Scripting, Docker, GitLab CI/CD
+
+#### Methodologies
+Agile (Kanban, Scrum)
 
 </div>
